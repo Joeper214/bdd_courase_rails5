@@ -27,3 +27,10 @@ listing articles feature test
 - list the two articles
 
 - expect both articles titles and bodies to be present
+
+Show article feature test
+
+- create branch
+- create 1 article to display
+
+- show the article title and details

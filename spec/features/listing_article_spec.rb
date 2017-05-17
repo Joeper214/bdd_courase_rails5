@@ -4,8 +4,6 @@ RSpec.feature "Listing Articles" do
   
   before do
     @article1 = Article.create(title: "The first article", body: "Lorem ipsum dolor sit amet, cosecletur.")
-    
-    
     @article2 = Article.create(title: "The second article", body: "Body body wala lang.")
   end
   
