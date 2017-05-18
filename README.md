@@ -34,3 +34,21 @@ Show article feature test
 - create 1 article to display
 
 - show the article title and details
+- 
+User sign-up
+
+- topic branch
+- create spec
+
+Signing up users -
+- Visit root
+- click on sign-up link
+- email
+- password
+- password confirmation
+
+- sign-up
+
+Invalid signup
+
+- do an invalid sign-up and ensure that it fails
