@@ -78,3 +78,7 @@ Comments Feature
 - spec
 - building the functionality
 /articles/4/comments/5
+
+- request spec
+- a signed in user gets to comments
+- a signed in user get redirected to sign in page
