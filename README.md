@@ -69,3 +69,5 @@ foreign key of user_id in the articles table
 steps:
 
 - Create the spec
+
+Homework: Do the same restrict access (controller) for delete
