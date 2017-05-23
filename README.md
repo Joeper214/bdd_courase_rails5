@@ -71,3 +71,10 @@ steps:
 - Create the spec
 
 Homework: Do the same restrict access (controller) for delete
+
+Comments Feature
+
+- create a branch
+- spec
+- building the functionality
+/articles/4/comments/5

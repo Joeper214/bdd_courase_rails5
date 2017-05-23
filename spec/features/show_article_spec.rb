@@ -6,7 +6,6 @@ RSpec.feature "Showing an article" do
     @john = User.create(email: "john@example.com", password: "test_password")
     @fred = User.create(email: "fred@example.com", password: "fred_password")
     @article = Article.create(title: "The first article", body: "Lorem ipsum dolor sit amet, cosecletur.", user: @john)
-    
   end
   
   scenario "to non-signed in user hide the edit and delete buttons" do
