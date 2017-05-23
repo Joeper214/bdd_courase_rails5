@@ -82,3 +82,6 @@ Comments Feature
 - request spec
 - a signed in user gets to comments
 - a signed in user get redirected to sign in page
+- 
+
+Homework launch it to production on Heroku
